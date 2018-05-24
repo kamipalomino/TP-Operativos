@@ -1,4 +1,4 @@
-#include <netdb.h>
+﻿#include <netdb.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -35,7 +35,7 @@
 	int gethostname ( char *hostname, size_t size);
 	
 
-/*--------------------ESTRUCTURAS--------------------------*/
+/*---------------------------------ESTRUCTURAS--------------------------*/
 
 
 
