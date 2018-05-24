@@ -1,0 +1,10 @@
+23:08:29 **** Incremental Build of configuration Debug for project redistinto ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o plani.o "..\\plani.c" 
+..\\plani.c:6:10: fatal error: sys/socket.h: No such file or directory
+ #include <sys/socket.h>
+          ^~~~~~~~~~~~~~
+compilation terminated.
+
+23:08:30 Build Finished (took 972ms)
+

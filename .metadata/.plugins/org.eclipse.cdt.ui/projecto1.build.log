@@ -1,0 +1,9 @@
+23:08:29 **** Incremental Build of configuration Release for project projecto1 ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre1.8.0_171/bin/server;C:/Program Files/Java/jre1.8.0_171/bin;C:/Program Files/Java/jre1.8.0_171/lib/amd64;C:\Program Files\Haskell\bin;F:\Haskell\lib\extralibs\bin;F:\Haskell\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Intel Education\Application Support;C:\Program Files (x86)\Security Innovation\TSS\bin\;C:\Program Files (x86)\Calibre2\;C:\Program Files (x86)\Windows Live\Shared;F:\Haskell\mingw\bin;C:\Users\kamipalomino\AppData\Roaming\cabal\bin;C:\Users\kamipalomino\AppData\Roaming\local\bin;F:\kamipalomino\soft_Faculltad\eclipse\cpp-oxygen\eclipse]
+
+23:08:29 Build Finished (took 344ms)
+

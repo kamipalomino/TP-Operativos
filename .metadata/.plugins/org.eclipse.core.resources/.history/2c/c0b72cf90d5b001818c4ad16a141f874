@@ -1,0 +1,18 @@
+/*
+ * commons.cpp
+ *
+ *  Created on: 18 may. 2018
+ *      Author: kamipalomino
+ */
+
+#include "commons.h"
+
+commons::commons() {
+	// TODO Auto-generated constructor stub
+
+}
+
+commons::~commons() {
+	// TODO Auto-generated destructor stub
+}
+

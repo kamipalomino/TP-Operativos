@@ -1,0 +1,9 @@
+23:13:56 **** Incremental Build of configuration Debug for project commons ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -fPIC -o "commons\\process.o" "..\\commons\\process.c" 
+gcc -shared -o libcommons.dll "commons\\bitarray.o" "commons\\collections\\dictionary.o" "commons\\collections\\list.o" "commons\\collections\\queue.o" "commons\\config.o" "commons\\error.o" "commons\\log.o" "commons\\process.o" "commons\\string.o" "commons\\temporal.o" "commons\\txt.o" 
+commons\\log.o: En la función `_log_write_in_level':
+F:\kamipalomino\Documents\GitHub\eclipse\commons\Debug/..//commons//log.c:127: referencia a `process_get_thread_id' sin definir
+commons\\temporal.o: En la función `temporal_get_string_time':
+F:\kamipalomino\Documents\GitHub\eclipse\commons\Debug/..//commons//temporal.c:38: referencia a `localtime_r' sin definir
+collect2.exe: error: ld returned 1 exit status
